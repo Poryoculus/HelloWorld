@@ -1,9 +1,9 @@
 # Overview
 
 HelloWorld program written in Python
-This is just the most basic program that prints "Hello, World!" to the console.
+This is just the most basic program that print a countdown by a number choose by a user and after that prints "Hello, World!" to the console.
 
-[Software Demo Video](http://youtube.link.goes.here)
+Soon
 
 # Development Environment
 
